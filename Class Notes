@@ -41,4 +41,33 @@ https://www.json.org/json-en.html
 https://jsonformatter.curiousconcept.com/
 
 json is used with multiple code types e.g. js and python. They have their own methods for reading it. This is why the json within the code type is a string. 
-json.parce is used for this conversion.
+json.parce() is used for this conversion.
+
+xml is extensible markup language. Essentially the same thing
+as json however it isn't used much anymore due to json becoming
+the industry standard for its ease of use
+
+json viewer for chrome extension is handy to see json within~
+browser
+
+https://kanye.rest/
+
+https://sv443.net/jokeapi/v2/
+
+endpoint
+api.openweathermap.org/data/2.5/weather
+parameter
+?q={city name}
+appended parameter
+&appid={API key}
+
+
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+https://httpstatusdogs.com/
+
+https://icanhazdadjoke.com/api
+
+
+https://mod2-api.herokuapp.com/owner
