@@ -1,0 +1,44 @@
+The internet works through an incredible large cable which 
+runs along the sea floor connecting the world's countries together.
+
+there are two types of computers within the internet stream.
+
+server which works 24/7. this holds the websites and things like this.
+consider it like a library
+
+client computers which could be phones, desktops and laptops
+
+
+client wants to access google. Our request is followed to the isp. they connect us to the internet
+cable. They send the request to their dns server. This is a computer phone book. It has the location
+of all the sites and things on the internet. this is saved as IP. the dns server gives this to the 
+isp. they then use the ip to find the server and the content the user wanted. retrieves it and 
+gifts it to the user to then see and use it.
+
+star-link it is space version which will be wireless. Tesla is doing this.
+
+a client would be more like the browser trying to access various sites or the video game trying to connect to the
+server for multiplayer
+
+API specifically Web API's. Has a brower as a client sending requests to the isp and servers to get responses and
+present the content.
+
+open weather api is a company which provides a service to sites allowing them to use their server via the api
+to retrieve weather data.
+
+This connection is via server to server
+
+application can be created using these snippets of code to retrieve various datas.
+
+twillio api is used for numerous types.
+
+json is based on js but isn't actually it.
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+
+https://www.json.org/json-en.html
+
+https://jsonformatter.curiousconcept.com/
+
+json is used with multiple code types e.g. js and python. They have their own methods for reading it. This is why the json within the code type is a string. 
+json.parce is used for this conversion.
