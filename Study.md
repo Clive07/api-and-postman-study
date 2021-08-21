@@ -20,7 +20,9 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. Describe how HTTP works?
 
    ```
-   Please write your answer here.
+  it works via a request and respond system. An action like opening up a website will send a get request to the server(s) asking for the details of the page e.g. videos, adverts and the pages contents.
+  
+  The servers then send back a response which will contain messages or fragments of these details to then be used.
    ```
 
 2. What are the required information for a HTTP Request ot be sent?
@@ -28,18 +30,18 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
    ```
    Examples:
    1. URL - the address of the information to be requested
-   2. // Please write your answer here.
-   3. // Please write your answer here.
+   2. Request Method - the method set to indicate the desired action to be performed e.g. getting the pages details or pushing details onto the server like a new user.
+   3. Header - 
    4. // Please write your answer here.
    ```
 
 3. Describe the expected actions to be performed by the following HTTP Verbs:
 
    ```
-   POST: // Write your answer here
-   GET: // Write your answer here
-   PUT: // Write your answer here
-   DELETE: // Write your answer here
+   POST: sends data to the server. What type is indicated by the content header
+   GET: asks for data. Get only works if it is only asking for data and not sending any.
+   PUT: replaces the current resouce or creates a new one with the requests data payload.
+   DELETE: deletes the specified resouce.
    ```
 
 ---
